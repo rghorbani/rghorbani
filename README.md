@@ -1,5 +1,5 @@
 # Hi, I'm Reza 👋
-### I am a passionate Software Developer who enjoys spending countless hours coding
+### I am a passionate Software Engineer who enjoys spending countless hours coding
 - 💡  I have an entrepreneurial spirit and love learning new technologies
 - ♟ Fun fact: I like to play chess even though I'm not so good
 
